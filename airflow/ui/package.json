@@ -15,7 +15,7 @@
     "@neutrinojs/copy": "^9.5.0",
     "@vvo/tzdb": "^6.7.0",
     "axios": "^0.21.1",
-    "dayjs": "^1.10.4",
+    "dayjs": "^1.11.10",
     "dotenv": "^8.2.0",
     "framer-motion": "^3.10.0",
     "humps": "^2.0.1",
